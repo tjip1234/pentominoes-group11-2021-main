@@ -1,0 +1,12 @@
+PROJECT TITLE: Project 1-1: PENTOMINOES
+PURPOSE OF PROJECT: Create an algorithm that fills a grid with selected pentominoes as quickly and efficiently as possible if there is a solution.
+VERSION or DATE: 07.10.2021
+HOW TO START THIS PROJECT: Open the zip file and run the /PentominoTemplateBasicSearchWithGaps/PentominoTemplateBasicSearchWithGaps/src/Search.java file. Enjoy. 
+AUTHORS: Sonya, Rafael, Eden, Flo, Melis, Aurelien 
+USER INSTRUCTIONS: 
+Make sure you have the latest version of Java installed. Start the program. Select the mode to run the program. 
+Mode 1 is selecting the size of the grid. Mode 2 is selecting the pentominoes. 
+Select the size of the grid or the pentominoes from the List of possible ones (e.g. P,T,I,L,N,etc.). 
+Press enter. Wait for the program to finish running. 
+If there is a solution, you will see the pentominoes filled into the Grid at the User interface and the terminal will read: "Solution found".
+If no solution can be found the Grid of the User interface will stay empty and the terminal will read: "Solution not found". 
